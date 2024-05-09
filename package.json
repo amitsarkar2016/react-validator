@@ -1,0 +1,13 @@
+{
+  "name": "react-validator",
+  "version": "1.0.10",
+  "description": "a simple package for apply input validation on react application. it can be used for validation such as numaric,email,letter,custom rejex,minimum length and max length etc",
+  "keywords": [
+    "react validation",
+    "react validator",
+    "react input validation",
+    "validation in react"
+  ],
+  "license": "ISC",
+  "main": "index.js"
+}
